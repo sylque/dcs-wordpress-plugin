@@ -42,7 +42,7 @@ of tools to integrate websites and web apps with Discourse.
    http://your.wordpress.blog/wp-content/plugins/docuss/dcs-website.php
    ```
 
-4. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2)
+4. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin)
    in your Discourse instance and set it up with the above url.
 
 ## License
