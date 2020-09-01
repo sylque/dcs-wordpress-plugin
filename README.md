@@ -4,6 +4,8 @@
 Discourse forum. It is part of [Docuss](https://github.com/sylque/docuss), a set
 of tools to integrate websites and web apps with Discourse.
 
+**This project is not active anymore.** Fixes are provided to existing users, but I stopped working on new features. You might want to check  [DiscPage](https://github.com/sylque/discpage), which is somehow a simplified version of Docuss.
+
 ## Plugin Installation
 
 1. Download this repository and copy the `docuss` folder to your Wordpress
